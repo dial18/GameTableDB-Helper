@@ -1,9 +1,7 @@
-GameTableDB-Helper
-==============
-
-MS Excel file -> GameTable Code, Data
-
 GameTableDB Builder - By Excel
+YongPil Park
+
+dial18@gmail.com
 
 =================================================================
 
@@ -34,7 +32,6 @@ see the precompileTest.bat and precompile.py
 about precopile see this page 
 http://marcgravell.blogspot.kr/2012/07/introducing-protobuf-net-precompiler.html
 
-
 After then u can use Your Table DB In Unity 3D 
 
 Ex)
@@ -45,7 +42,6 @@ testDB = ProtoBuf.Serializer.Deserialize<testDB>(ms);
 ms.Close();
 
 =================================================================
-
 YongPil Park
 
 dial18@gmail.com
